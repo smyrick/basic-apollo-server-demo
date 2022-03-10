@@ -1,3 +1,7 @@
-# nodemon-wayrkv
+# Apollo Server Example on stackblitz
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/nodemon-wayrkv)
+A simple single Apollo Server example runnning on StackBlitz.
+
+Fork on the StackBlitz UI to create your own copy.
+
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/apollo-apollo-server-demo)
